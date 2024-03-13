@@ -31,7 +31,7 @@ Created as part of:<br>
 <br>
 <b>Team Members:</b>
 <ul>
-<li>Parv Thacker
+<li>Parv Thacker <a href="https://github.com/parvthacker">Github</a>
 <li>Richa Yadav <a href="https://github.com/richayadav03">Github</a>
 <li>Khushi Patel
 <li>Niti Patel <a href="https://github.com/niti0309">Github</a>
