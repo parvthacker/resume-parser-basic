@@ -32,9 +32,9 @@ Created as part of:<br>
 <b>Team Members:</b>
 <ul>
 <li>Parv Thacker
-<li>Richa Yadav
+<li>Richa Yadav <a href="https://github.com/richayadav03">Github</a>
 <li>Khushi Patel
-<li>Niti Patel
+<li>Niti Patel <a href="https://github.com/niti0309">Github</a>
 <li>Jaival Chhag
 </ul>
 Members are or will be added as collaborators to the projet/repo
