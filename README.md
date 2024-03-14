@@ -33,7 +33,7 @@ Created as part of:<br>
 <ul>
 <li>Parv Thacker <a href="https://github.com/parvthacker">Github</a>
 <li>Richa Yadav <a href="https://github.com/richayadav03">Github</a>
-<li>Khushi Patel
+<li>Khushi Patel <a href="https://github.com/khushi-patel1221">Github</a>
 <li>Niti Patel <a href="https://github.com/niti0309">Github</a>
 <li>Jaival Chhag
 </ul>
